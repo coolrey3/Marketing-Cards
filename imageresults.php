@@ -136,7 +136,7 @@ if($repair ==='charger') {
 
 if($repair ==='camera') {
     echo "<div style='z-index:10;position:absolute;top:320px;float:left;width:100%;color:white;text-align:center'>";
-        echo "<h1 style='top:55px;position:relative;z-index:6;height:;'><img class='repair' style='width:2.0in;' src='https://biologicwine.co.za/wp-content/uploads/2012/03/Camera-Image.png' ></h1>". "";
+        echo "<h1 style='top:55px;position:relative;z-index:6;height:;'><img class='repair' style='width:2.0in;' src='/Camera-Image.png' ></h1>". "";
     echo "</div>";
     };
 
