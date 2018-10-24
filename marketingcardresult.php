@@ -37,7 +37,7 @@ if($type ==='Game') {
 
 if($carrier ==='T-Mobile') {
     echo "<div style='z-index:10;position:absolute;top:350px;float:left;width:100%;color:white;text-align:center'>";
-        echo "<h1 style='top:55px;position:relative;z-index:6;height:;'><img style='width:3in;' src='http://mobilerepairtechs.com/tmobile.png' ></h1>". "";
+        echo "<h1 style='top:55px;position:relative;z-index:6;height:;'><img style='width:3in;' src='tmobile.png' ></h1>". "";
     echo "</div>";
     };
 
