@@ -65,7 +65,7 @@ echo "</div>";
     echo "</body>";
 
 ###### FOoter############
-include('footer.php' );
+include('../Frontend/footer.php' );
 
 
 ?>
